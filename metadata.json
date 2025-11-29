@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Live Interface",
+  "description": "A real-time, multimodal voice interface powered by Gemini Live API. Speak naturally with the AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
